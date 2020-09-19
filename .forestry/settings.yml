@@ -4,12 +4,13 @@ auto_deploy: false
 admin_path: 
 webhook_url: 
 sections:
-- type: document
-  path: "./_posts"
-  label: Docs
 - type: directory
   path: ''
-  label: Directories
+  label: Dirs
+  create: all
+  match: "**/*"
+- type: jekyll-posts
+  label: Posts
   create: all
   match: "**/*"
 upload_dir: uploads

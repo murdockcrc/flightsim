@@ -26,4 +26,8 @@ The flight over the Caribbean was breath-taking:
 
 ![](/images/015_mynn-mtpp_11.jpg)The Toussaint Louverture International Airport is a single-runway airfield with a small terminal. The views of the mountain range to the north looks quite nice. Reminds me of the Juan Santamaria Intl Airport in Costa Rica:
 
-![](/images/015_mynn-mtpp_12.jpg)
+### ![](/images/015_mynn-mtpp_12.jpg)Route
+
+ZQA ZIN Y398 JOSES A315 SAVAR SAVA1D
+
+![](/images/screenshot-2020-09-20-at-11-47-08.png)

@@ -1,13 +1,13 @@
 ---
-title: 013 | Jacksonville - Miami International
-date: 2020-09-18 00:00:00
-description:
+title: 013 Jacksonville - Miami International
+date: 2020-09-18T00:00:00.000+00:00
+description: 
 categories:
-  - TBM930
-image: /images/post_uploads/013_KNIP-KMIA_004.png
-author_staff_member:
----
+- TBM930
+image: "/images/post_uploads/013_KNIP-KMIA_004.png"
+author_staff_member: 
 
+---
 ### KNIP - KMIA
 
 Following the east coast of the United States is beautiful. That narrow strip of land sandwiched between the ocean and the mainland is quite nice decoration. Postcard image:

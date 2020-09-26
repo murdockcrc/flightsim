@@ -14,7 +14,7 @@ _Piarco International Airport - Boa Vista International Airport_
 
 That's it for us in the Caribbean. I'm sure we missed a lot of lovely places in this area, but we can't hang around for too long in a single region, we've got a world to explore.
 
-We will cross Venezuela and land at Boa Vista in Brazil.
+We will cross Venezuela and land at Boa Vista in Brazil. We will continue through the eastern part of the South American subcontinent until we reach its end at Ushuaia. But there's still a couple of stop before we get there.
 
 ![](/images/019-ttpp-sbbv-01.jpg)
 

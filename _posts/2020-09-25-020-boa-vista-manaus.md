@@ -34,3 +34,9 @@ _On final approach to Manaus Intl airport_
 ![](/images/020-sbbv-sbeg-06.jpg)
 
 _Taxiing after landing in Manaus_
+
+### Flight plan
+
+ANLO1A ANBIX UM402 ARVUM SEML1B
+
+![](/images/screenshot-2020-09-26-at-23-07-44.png)

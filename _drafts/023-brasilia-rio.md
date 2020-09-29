@@ -15,7 +15,7 @@ _Brasília–Presidente Juscelino Kubitschek International Airport - Rio de Jane
 
 OK, this post is gonna make you fall off your seat when you see the stunning scenery of Rio. But first things first.
 
-We take off from Brasilia, the capital of Brazil's federal government, and proceed south east to the coast. 
+We take off from Brasilia, the capital of Brazil's federal government, and proceed south east to the coast.
 
 ![](/images/022_sbbr-sbgl_01.jpg)![](/images/022_sbbr-sbgl_02.jpg)
 
@@ -27,6 +27,8 @@ As we are coming from the northwest, we turn south looking for the coast. We are
 
 ![](/images/022_sbbr-sbgl_06.jpg)
 
+The statue, named _Cristo Redentor_ in Portuguese and Spanish, was constructed between 1922 and 1931, in a collaboration between a French sculptor, a Brazilian and French engineer and a Romanian sculptor. It is 30 meters high and overlooks the city of Rio.
+
 Let's take out the drone and check the monument ourselves:
 
 ![](/images/022_sbbr-sbgl_05.jpg)
@@ -34,3 +36,11 @@ Let's take out the drone and check the monument ourselves:
 _That little read dot in the top center of the picture is our TBM_
 
 At this point, I'm speechless. Look at the magnificence of this. This is a flight **simulator** for Christ's sake. And here we are, admiring one of the world's wonders in all its glory. Wonderful job Microsoft. I cannot emphasize this enough; this flight sim is a revolutionary piece of technology which will change the way we interact with the world forever. This flight sim is a showcase of what's possible. This has been Satya Nadella's message all along. After this, companies will start building breathtaking virtual representations of the world which will amaze and impress us every year more.
+
+But we are not done yet with Rio. Cause we need to check the crow jewel of Brazil's football history: The Maracana stadium:
+
+![](/images/022_sbbr-sbgl_08.jpg)
+
+The _Estádio do Maracanã_, officially the _Estádio Jornalista Mário Filho,_ was first opened in 1950. The stadium used to fit over 150000 people, but its capacity got reduced to just over 78000 as part of the renovations for the 2014 FIFA World Cup. It is Brazil's biggest stadium (the second largest being the Brasilia stadium, which we flew over during our last flight).
+
+![](/images/022_sbbr-sbgl_07.jpg)

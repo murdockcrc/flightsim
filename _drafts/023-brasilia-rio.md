@@ -29,8 +29,6 @@ As we are coming from the northwest, we turn south looking for the coast. We are
 
 The statue, named _Cristo Redentor_ in Portuguese and Spanish, was constructed between 1922 and 1931, in a collaboration between a French sculptor, a Brazilian and French engineer and a Romanian sculptor. It is 30 meters high and overlooks the city of Rio.
 
-Let's take out the drone and check the monument ourselves:
-
 ![](/images/022_sbbr-sbgl_05.jpg)
 
 _That little read dot in the top center of the picture is our TBM_

@@ -1,0 +1,36 @@
+---
+title: 023 Brasilia - Rio
+date: 2020-09-27 22:00:00 +0000
+description: ''
+categories:
+- South America
+- Brazil
+- TBM930
+image: "/images/022_sbbr-sbgl_04.jpg"
+
+---
+### SBBR - SBGL
+
+_Brasília–Presidente Juscelino Kubitschek International Airport - Rio de Janeiro/Galeão – Antonio Carlos Jobim International Airport_
+
+OK, this post is gonna make you fall off your seat when you see the stunning scenery of Rio. But first things first.
+
+We take off from Brasilia, the capital of Brazil's federal government, and proceed south east to the coast. 
+
+![](/images/022_sbbr-sbgl_01.jpg)![](/images/022_sbbr-sbgl_02.jpg)
+
+Not much to report here, the Live weather has been simply fantastic the last couple of days, and we power off the TBM's Pratt & Whitney turboprop and climb all the way up to 28000 feet.
+
+Similar to the flight to Brasilia, I broke the IFR flight plan and proceed manually in VFR mode. Rio is a city we need to explore more carefully.
+
+As we are coming from the northwest, we turn south looking for the coast. We are going to do a low flight south of Christ the Redeemer. The sim did not disappoint. Look at this scenery:
+
+![](/images/022_sbbr-sbgl_06.jpg)
+
+Let's take out the drone and check the monument ourselves:
+
+![](/images/022_sbbr-sbgl_05.jpg)
+
+_That little read dot in the top center of the picture is our TBM_
+
+At this point, I'm speechless. Look at the magnificence of this. This is a flight **simulator** for Christ's sake. And here we are, admiring one of the world's wonders in all its glory. Wonderful job Microsoft. I cannot emphasize this enough; this flight sim is a revolutionary piece of technology which will change the way we interact with the world forever. This flight sim is a showcase of what's possible. This has been Satya Nadella's message all along. After this, companies will start building breathtaking virtual representations of the world which will amaze and impress us every year more.

@@ -1,6 +1,6 @@
 ---
 title: 026 Montevideo - Mar del Plata (Argentina)
-date: 
+date: 2020-10-05 00:00:00 +0000
 description: ''
 categories:
 - Argentina

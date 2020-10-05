@@ -1,5 +1,5 @@
 ---
-title: 027 Mar del Plata - Comodora Rivadavia
+title: 027 Mar del Plata - Comodoro Rivadavia
 date: 2020-10-05 02:00:00 +0000
 description: ''
 categories:
@@ -21,7 +21,7 @@ We depart Mar del Plata and traverse the east coast of Argentina. The scenery lo
 
 ![](/images/027_sazm-savc_01.jpg)
 
-We land at Comodora Rivadavia. Colloqually simply as "Comodoro", this is the third largest city in the Argentinian Patagonia, with close to 200000 inhabitants. 
+We land at Comodoro Rivadavia. Commonly referred to as "Comodoro", this is the third largest city in the Argentinian Patagonia, with close to 200000 inhabitants.
 
 ![](/images/027_sazm-savc_03.jpg)
 

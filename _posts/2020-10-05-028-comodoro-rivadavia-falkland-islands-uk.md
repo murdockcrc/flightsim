@@ -18,7 +18,7 @@ Today's flight is going to be interesting, due to historical and political reaso
 
 Remember I told you we were going to spend a lot of time inside Argentina (after we left Uruguay)? Well, that was technically not true. Because today, we are going to the Falkland Islands.
 
-We first take off from Comodoro Rivadavia and quickly get feet wet. 
+We first take off from Comodoro Rivadavia and quickly get feet wet.
 
 ![](/images/028_savc-sfal_01.jpg)
 
@@ -42,7 +42,7 @@ Needless to say, as I turn right to do the teardrop, the crosswind is blowing th
 
 ![](/images/028_savc-sfal_06.jpg)
 
-The crosswind is brutal, and I wonder if I am landing within the operating tolerances of the aircraft. Coming in at an approach IAS (Indicated Airspeed) of 80kts, the actual ground speed was a mere 47kts, due to the head/crosswind hitting the aircraft. 
+The crosswind is brutal. You can see that from the rough water in the pic above. I start to wonder if I am landing within the operating tolerances of the aircraft. Coming in at an approach IAS (Indicated Airspeed) of 80kts, the actual ground speed was a mere 47kts, due to the head/crosswind hitting the aircraft.
 
 There's two ways to do a crosswind landing:
 
@@ -51,7 +51,7 @@ There's two ways to do a crosswind landing:
 
 Since my aircraft does not have a lot of clearance between the wings and the floor, I chose the crab technique. The difficulty with this technique is that, as you get close to touchdown, the nose of the aircraft is actually pointing into the direction of the wind, not the direction of the runway. So just barely before touchdown, you need to apply aileron and rudder power to bring the forward movement of the aircraft in the same direction as the runway, otherwise the wheels will be touching the tarmac in an incorrect orientation and that might cause severe damage to the landing gear. Correct the nose orientation too early, and the wind will blow you off from the runway just before touchdown. Correct is too late, and you'll be touching down with the wheels at the wrong angle.
 
-Well, I corrected too late :) 
+Well, I corrected too late :)
 
 It was a very rough touchdown. Not because I touched down hard, but because the wheels were not properly aligned with the direction of the runway fast enough. If this were real life, I am sure this would have damaged the tires.
 

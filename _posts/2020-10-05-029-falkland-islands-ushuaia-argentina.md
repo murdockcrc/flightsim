@@ -7,7 +7,7 @@ categories:
 - Argentina
 - South America
 - TBM930
-image: ''
+image: "/images/029_sfal-sawh_06.jpg"
 
 ---
 ### SFAL - SAWH

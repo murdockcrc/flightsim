@@ -1,6 +1,6 @@
 ---
 title: 030 Ushuaia - El Calafate
-date: 
+date: 2020-10-06 10:00:00 +0000
 description: ''
 categories:
 - Argentina

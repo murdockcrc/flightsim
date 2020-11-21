@@ -41,4 +41,6 @@ _Not a drop of water nearby_
 
 _Possibly the loneliest road in the world? Approach San Pedro de Atacama._
 
+San Pedro de Atacama is in the Antofagasta region in Chile. It's located at a high-altitude arid plateau, as you can see from the pics above. The town lies at 8000ft, not impossible for the TBM, but quite high for normal people.
+
 ![](/images/scse-scpe.JPG)

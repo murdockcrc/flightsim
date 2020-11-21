@@ -18,4 +18,6 @@ Our trip from La Paz to Cusco takes us right through the middle of Lake Titicaca
 
 The terrain is less rugged than in Bolivia, but we are still navigation altitudes above 10000ft, with mountain peaks and volcanoes which are much higher than that along the Andes.
 
-Again, the weather is impeccable for this flight, which I attribute to the fact that it is summer down there and sunny, clear skies are the norm. But we are keeping on moving north and it's already the end of November, so weather will probably get bad once he hit central American and beyond (it's hurricane season over there right now).
+Again, the weather is impeccable for this flight, which I attribute to the fact that it is summer down there and sunny, clear skies are the norm. But we are keeping on moving north and it's already the end of November, so weather will get bad once he hit central American and beyond (it's hurricane season over there right now).
+
+As I land in Peru for the first time, there is one thing which I can't get out of my mind. My love for Peruvian food. Peruvian food it the best. If you like fish and seafood, there is no better food than Peruvian. Full stop. My favorite of all? Ceviche. Ceviche is essentially raw fish which is marinated for ours in lemon juice. A delicatessen of epic proportions, a thing that belongs in another dimension.

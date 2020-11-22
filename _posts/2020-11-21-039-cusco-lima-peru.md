@@ -22,7 +22,7 @@ Cusco is a pretty large city, surrounded by high mountains around all quadrants.
 
 ![](/images/spzo-spjc-04.jpg)![](/images/spzo-spjc-03.jpg)
 
-The terrain around the Peruvian Andes is rugged. I can't image how it must have felt to fly over these mountains back in 1925. Today, we have the luxury of powerful engines and a myriad electronics to make our flights safe. Back in the day, it was not like that.
+The terrain around the Peruvian Andes is rugged. I can't image how it must have felt to fly over these mountains back in 1925. Today, we have the luxury of powerful engines and myriad electronics to make our flights safe. Back in the day, it was not like that.
 
 Clouds and fogs are plaguing the approach to Lima, so we'll have to do a full IFR approach and landing:
 

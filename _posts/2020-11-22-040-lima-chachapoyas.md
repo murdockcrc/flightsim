@@ -36,11 +36,11 @@ We do manage to avoid them all, but as we get into the cloud layer, visibility g
 
 ![](/images/spjc-sppy-08.jpg)
 
-As we finish the instrumented arrival procedure, we arrive at the decision point. Here, we need to decide if we continue with the final approach or abort. We are currently at 1500ft above ground level, and 3.5nm away from the airfield, and we still dont see anything. It was clear that landing here would be impossible. The decision point is reached and, with not even the airport lights in sight, it's time to abort the approach. 
+As we finish the instrumented arrival procedure, we arrive at the decision point. Here, we need to decide if we continue with the final approach or abort. We are currently at 1500ft above ground level, and 3.5nm away from the airfield, and we still dont see anything. It was clear that landing here would be impossible. The decision point is reached and, with not even the airport lights in sight, it's time to abort the approach.
 
 ![](/images/spjc-sppy-09.jpg)
 
-We will proceed to our alternate airport, Chaclayo, which is in the coast. We climb back up to 21000ft and proceed west to the coast. As we start leaving the mountains, the weather clears up nicely:
+We will proceed to our alternate airport, Chiclayo, which is in the coast. We climb back up to 21000ft and proceed west to the coast. As we start leaving the mountains, the weather clears up nicely:
 
 ![](/images/spjc-sppy-11.jpg)
 

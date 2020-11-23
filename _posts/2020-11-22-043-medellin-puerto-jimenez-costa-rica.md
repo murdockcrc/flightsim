@@ -22,7 +22,7 @@ We head northwest to Costa Rica, to a special place in my heart: Puerto Jimenez.
 
 ![](/images/skrg-mrpj-02.jpg)
 
-That piece of land in the horizon is Panama. But we continue our journey to Puerto Jimenez. On our descent, we cross the border with Costa Rica and get a view of Ciudad Neilly, the mountain in San Vito de Coto Brus, and the palm oil plantations in the Pacific coast of the country:
+That piece of land in the horizon is Panama. But we continue our journey to Puerto Jimenez. On our descent, we cross the border with Costa Rica and get a view of Ciudad Neilly, the mountains in San Vito de Coto Brus, and the palm oil plantations in the Pacific coast of the country:
 
 ![](/images/skrg-mrpj-03.jpg)
 

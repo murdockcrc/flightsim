@@ -45,3 +45,5 @@ Someone once crashed a plane while circling around the Arenal Volcano with touri
 And finally we line up with the runway to land at El Tanque.
 
 ![](/images/mrpj-mran-09.jpg)
+
+That's it folks. A little bit of sightseeing across Costa Rica, but we need to continue our journey north. For the next leg, we'll head over to Roatan, a diving paradise in the coast of Honduras.
